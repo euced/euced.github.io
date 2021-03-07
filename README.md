@@ -1,3 +1,3 @@
-List of projects:
+List of Python projects:
 
-[An Analysis of the Duties and Taxes of Imported Products in 2019](https://euced.github.io/blog_1/)
+[An Analysis of the Duties and Taxes of Imported Products in 2019](https://euced.github.io/eda_customs/)
