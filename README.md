@@ -19,3 +19,10 @@ This study aims to develop a regression model that will predict the short term a
 
 
 ---
+
+## Machine Learning
+
+### [Improving stock price prediction accuracy using technical indicators and machine learning techniques](https://euced.github.io/ml_StockPricePred/ML_StockPred.html)
+In this study, the data on the stock price of Jollibee Food Corporation (stock code: JFC), which is a stock listed in PSE, from January 2012 to December 2019 were used to develop a model and a method that would improve the accuracy of predicting stock prices.
+
+---
