@@ -26,3 +26,10 @@ This study aims to develop a regression model that will predict the short term a
 In this study, the data on the stock price of Jollibee Food Corporation (stock code: JFC), which is a stock listed in PSE, from January 2012 to December 2019 were used to develop a model and a method that would improve the accuracy of predicting stock prices.
 
 ---
+
+## Deep Learning
+
+### [Stock price prediction using Reinforcement Learning](https://euced.github.io/dl_RLStockPricePred/StockPricePred_RL.html)
+n this study, the data on the daily closing prices from January 2015 to December 2020 of the Philippine Stock Exchange Composite index (code: PSEi), which tracks the performance of the top 30 most representative companies listed on the PSE, were used to develop a stock price prediction model that follows a reinforcement-based learning. This study was done in order to explore in detail the fundamental concepts of reinforcement learning.
+
+---
