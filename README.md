@@ -1,4 +1,4 @@
-# <center>List of Python projects</center>
+# <center>List of Data Science Projects</center>
 
 ## Exploratory Data Analysis
 
