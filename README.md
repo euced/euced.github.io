@@ -5,6 +5,9 @@
 ### [An Analysis of the Duties and Taxes of Imported Products in 2019](https://euced.github.io/eda_customs/)
 This study is an exploration of the importing behavior of the Philippines using 2019 customs data. The data is part of the "Philippine Customs Imports dataset" made available by the BoC through their website.
 
+### [Playing with the Pokemon data set - exploring the basics of k-NN classification](https://euced.github.io/ml_pokemon/ml_pokemon.html)
+This study explores how k-nearest neighbor (k-NN) classification can be implemented in a data set. In this study, the Pokemon data set obtained from Kaggle was used.
+
 ---
 
 ## Big Data Analysis
