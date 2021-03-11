@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: E Cedric Corro
-description: This site contains a collection of data science projects that I did individually or with a team. <br><span class="a">Fields of study</span> <span class="b">:</span> <span class="c">Mathematics and Data Science</span><br><span class="a">E-mail</span> <span class="b">:</span> <span class="c">euced.corro@gmail.com</span><br> <span class="a">Location</span> <span class="b">:</span> <span class="c">Makati City, Philippines</span><br>
+description: This site contains a collection of data science projects that I did individually or with a team. <br><span class="a">Background</span> <span class="b">:</span> <span class="c">Mathematics and Data Science</span><br><span class="a">E-mail</span> <span class="b">:</span> <span class="c">euced.corro@gmail.com</span><br> <span class="a">Location</span> <span class="b">:</span> <span class="c">Makati City, Philippines</span><br>
 logo: /prof_pic/img.jpg
 
 baseurl: /euced.github.io
