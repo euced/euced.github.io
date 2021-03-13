@@ -33,6 +33,6 @@ In this study, the data on the stock price of Jollibee Food Corporation (stock c
 ## Deep Learning
 
 ### [Stock price prediction using Reinforcement Learning](https://euced.github.io/dl_RLStockPricePred/StockPricePred_RL.html)
-n this study, the data on the daily closing prices from January 2015 to December 2020 of the Philippine Stock Exchange Composite index (code: PSEi), which tracks the performance of the top 30 most representative companies listed on the PSE, were used to develop a stock price prediction model that follows a reinforcement-based learning. This study was done in order to explore in detail the fundamental concepts of reinforcement learning.
+In this study, the data on the daily closing prices from January 2015 to December 2020 of the Philippine Stock Exchange Composite index (code: PSEi), which tracks the performance of the top 30 most representative companies listed on the PSE, were used to develop a stock price prediction model that follows a reinforcement-based learning. This study was done in order to explore in detail the fundamental concepts of reinforcement learning.
 
 ---
