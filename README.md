@@ -12,6 +12,11 @@ This study explores how k-nearest neighbor (k-NN) classification can be implemen
 
 ## Big Data Analysis
 
+### [Do the Doodle: Predicting "Quick, Draw!" drawings based on player's first drawing stroke](https://euced.github.io/bigdata_QuickDraw/bigdata_quickdraw.html)
+##### [Data preprocessing](https://euced.github.io/bigdata_QuickDraw/data_preprocessing.html)
+
+*Quick, Draw!* is an online game developed by Google Creative Lab in which a neural network guesses the drawing as the player draws the given image. In this study, we aim to answer the question, "Using machine learning models, can *Quick, Draw!* sketches be guessed correctly given only the first few points of the first stroke?" The data set used in this study contains 36 million *Quick, Draw!* sketches under 82 categories. The data set has an estimated total size of 53GB.
+
 ### [Analyzing Air Quality in India (October 2020) Part 1](https://euced.github.io/aws_bigdata_IndaiAirQuality1/IndianAirQuality1.html)
 
 This study aims to determine the air quality profile of cities in India as this country dominates the world's top 30 polluted cities based on IQAir AirVisual's 2019 World Air quality Report. The dataset was obtained on AWS Registry open data source. The one used comprised of physical air quality real time data from different cities in India in the period of October 1-31, 2020. The global OpenAQ dataset used in this study has an estimated total size of 24GB.
